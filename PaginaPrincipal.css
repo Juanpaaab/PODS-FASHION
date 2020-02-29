@@ -1,0 +1,87 @@
+Body{
+    font-family: 'Open Sans';
+}
+.header{
+    display: block;
+    margin: 0 auto;
+    width: 1300px;
+    height: 100px;
+}
+li{
+    float: left;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li a{
+    display: block;
+    color: gray;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 30px;
+    text-decoration:none;
+    font-family:'Open Sans';
+}
+li a:hover{
+    color: black;
+}
+li .Logo{
+    width: 300px;
+    margin-left:160px;
+}
+li .Lupa{
+    width: 30px;
+    margin-left:60px;
+    margin-top: 25px;
+}
+li .Buscar{
+    margin-top:30px;
+    margin-left: 10px;
+}
+.container{
+    display: block;
+    margin: 0 auto;
+    width: 1300px;
+    height: 600px;
+}
+.container .Ropa{
+    margin-left: 0px;
+}
+
+.container .Accesorios{
+    position: absolute;
+    width: 550px;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.container .Ropa2{
+    margin-left: 240px;
+    font-size: 20px;
+}
+.container .Accesorios2{
+    margin-left: 950px;
+    margin-top: -80px;
+}
+.container .middle{
+    display: block;
+    margin: 0 auto;
+    width: 1300px;
+    height: 500px;
+}
+
+.middle .Flayer2{
+    width:500px;
+    margin-left: 200px;
+}
+.middle .Flayer2txt{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    display: flex;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
