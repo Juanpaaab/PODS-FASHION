@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans';
+	height:100vh;
+}
+
+
+.header{
+    display: block;
+    margin: 0 auto;
+    width: 1300px;
+    height: 100px;
+}
+li{
+    float: left;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li a{
+    display: block;
+    color: gray;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 30px;
+    text-decoration:none;
+    font-family:'Open Sans';
+}
+li a:hover{
+    color: black;
+}
+li .Logo{
+    width: 300px;
+    margin-left:160px;
+}
+li .Lupa{
+    width: 30px;
+    margin-left:60px;
+    margin-top: 25px;
+}
+li .Buscar{
+    margin-top:30px;
+    margin-left: 10px;
+}
+
+li .Persona{
+     margin-top: 30px;
+     margin-left: 20px;
+}
+
+li .Personita{
+    width: 50px;
+    margin-left:40px;
+    margin-top: 20px;
+}
+li .Opciones{
+    margin-left: -40px;
+}
