@@ -31,7 +31,7 @@ li a:hover{
 }
 li .Logo{
     width: 300px;
-    margin-left:160px;
+    margin-left:180px;
 }
 li .Lupa{
     width: 30px;
@@ -72,16 +72,50 @@ li .Buscar{
     width: 1300px;
     height: 500px;
 }
-
+.middle {
+    display: block;
+    margin: auto auto;
+    width: 1300px;
+}
 .middle .Flayer2{
     width:500px;
-    margin-left: 200px;
+    margin-left: 400px;
 }
 .middle .Flayer2txt{
     width: 200px;
     height: 200px;
-    background-color: aquamarine;
     display: flex;
     margin-left: 1000px;
     margin-top: -300px;
+}
+
+.foater {
+    display: block;
+    width: 1300px;
+    height: 100px;
+    margin: auto auto;
+    margin-top: 130px;
+}
+.foater .Logo{
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.foater .Datos1{
+    display: block;
+    margin-left: 450px;
+    margin-top: -80px;
+}
+
+.foater .Datos2{
+    display: block;
+    margin-left: 680px;
+    margin-top: -45px;
+}
+
+.foater .Datos3{
+    display: block;
+    margin-left: 1050px;
+    margin-top: -65px;
 }
