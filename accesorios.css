@@ -1,1 +1,103 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans';
+	height:100vh;
+}
 
+.header{
+    display: block;
+    margin: 0 auto;
+    width: 1300px;
+    height: 100px;
+}
+
+li{
+    float: left;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li a{
+    display: block;
+    color: gray;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 30px;
+    text-decoration:none;
+    font-family:'Open Sans';
+}
+li a:hover{
+    color: black;
+}
+li .Logo{
+    width: 300px;
+    margin-left:160px;
+}
+li .Lupa{
+    width: 30px;
+    margin-left:60px;
+    margin-top: 25px;
+}
+li .Buscar{
+    margin-top:30px;
+    margin-left: 10px;
+}
+.container{
+    display: block;
+    margin: 0 auto;
+    width: 1300px;
+    height: 600px;
+}
+.container .Ropa{
+    margin-left: 0px;
+}
+
+/*Redimensión imágenes*/
+
+.container img{
+    height: 250px;
+    width: 250px;
+}
+
+.container a {
+    text-decoration: none;/*quita las lineas tipo link a las imágenes*/
+}
+
+.container .objeto1 {
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 100px ;
+}
+
+.container .objeto2 {
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+
+.container .objeto3 {
+    display: none;
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 500px;
+}
+
+.container .objeto4 {
+    display: none;
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 500px;
+}
+
+.container.descripcion p{
+    
+}
