@@ -36,9 +36,10 @@ li .Logo{
 .container {
     display: block;
     width: 400px;
-    height: 500px;
+    height: 250px;
     margin: 20px auto;
 }
+
 li .Persona{
     margin-top: 30px;
     margin-left: 20px;
@@ -51,4 +52,34 @@ li .Personita{
 }
 li .Opciones{
    margin-left: -40px;
+}
+.foater {
+    display: block;
+    width: 1300px;
+    height: 100px;
+    margin: 40px auto;
+    margin-top: 240px;
+}
+.foater .Logo{
+    width: 300px;
+    margin-left: -400px;
+    margin-top: 10px;
+}
+
+.foater .Datos1{
+    display: block;
+    margin-left: 100px;
+    margin-top: -80px;
+}
+
+.foater .Datos2{
+    display: block;
+    margin-left: 280px;
+    margin-top: -45px;
+}
+
+.foater .Datos3{
+    display: block;
+    margin-left: 550px;
+    margin-top: -75px;
 }
