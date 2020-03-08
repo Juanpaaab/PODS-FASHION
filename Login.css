@@ -71,14 +71,14 @@ li .Buscar{
 	box-sizing: border-box;
 	padding: 70px 30px;
 }
-.login-box .avatar {
+/*.login-box .avatar {
 	width: 320px;
 	height: 100px;
 	position: absolute;
 	top: -50px;
 	left:calc(50% - 50%);
 
-}
+}*/
 
 .login-box h1{
 	margin: 0;
