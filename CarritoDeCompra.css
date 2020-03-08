@@ -1,0 +1,243 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans';
+	height:100vh;
+}
+
+
+.header{
+    display: block;
+    margin: 0 auto;
+    width: 1300px;
+    height: 100px;
+}
+li{
+    float: left;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+li a{
+    display: block;
+    color: gray;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 30px;
+    text-decoration:none;
+    font-family:'Open Sans';
+}
+li a:hover{
+    color: black;
+}
+li .Logo{
+    width: 300px;
+    margin-left:220px;
+}
+li .Buscar{
+    margin-top:30px;
+    margin-left: 10px;
+}
+
+li .Persona{
+     margin-top: 30px;
+     margin-left: 20px;
+}
+
+li .Personita{
+    width: 50px;
+    margin-left:40px;
+    margin-top: 20px;
+}
+li .Opciones{
+    margin-left: -40px;
+}
+
+/* */
+
+.container{
+    width: 1300px;
+    height: 900px;
+    margin: auto auto;
+    display: block;
+}
+
+.container .Cesta1{
+    margin: auto;
+    display: block;
+    height: 100px;
+    width: 1300px;
+    background-color: grey;
+}
+.Cesta2{
+    height: 70px;
+    width: 130px;
+    color: white;
+    font-size: 40px;
+    padding-top: 15px;
+    padding-left: 50px;
+    display: block;
+}
+.container .Productos{
+    position: absolute;
+    width: 122px;
+    background-color: gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 200px;
+    padding: 10px 10px;
+}
+.container .Precio{
+    position: absolute;
+    width: 80px;
+    background-color:gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left:500px;
+    padding: 10px 10px;
+}
+.container .Cantidad{
+    position: absolute;
+    width: 105px;
+    background-color:gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left:700px;
+    padding: 10px 10px;
+}
+
+.Ropa1{
+    position: absolute;
+    width: 200px;
+    margin-top: 80px;
+    margin-left: 50px;
+    
+}
+.Ropa11{
+    position: absolute;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 280px;
+    font-size: 17px;
+}
+
+.Ropa12{
+    position: absolute;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 490px;
+    font-size: 17px;
+}
+.Ropa13{
+    position: absolute;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 740px;
+    font-size: 17px;
+}
+
+
+.Ropa2{
+    position: absolute;
+    width: 200px;
+    margin-top: 320px;
+    margin-left: 50px;
+    
+}
+.Ropa21{
+    position: absolute;
+    width: 200px;
+    margin-top: 350px;
+    margin-left: 280px;
+    font-size: 17px;
+}
+
+.Ropa22{
+    position: absolute;
+    width: 200px;
+    margin-top: 350px;
+    margin-left: 490px;
+    font-size: 17px;
+}
+.Ropa23{
+    position: absolute;
+    width: 200px;
+    margin-top: 350px;
+    margin-left: 740px;
+    font-size: 17px;
+}
+
+
+.Ropa3{
+    position: absolute;
+    width: 200px;
+    margin-top: 550px;
+    margin-left: 50px;
+    
+}
+.Ropa31{
+    position: absolute;
+    width: 20px;
+    margin-top: 580px;
+    margin-left: 280px;
+    font-size: 17px;
+}
+
+.Ropa32{
+    position: absolute;
+    width: 20px;
+    margin-top: 580px;
+    margin-left: 490px;
+    font-size: 17px;
+}
+.Ropa33{
+    position: absolute;
+    width: 20px;
+    margin-top: 580px;
+    margin-left: 740px;
+    font-size: 17px;
+}
+
+.Total{
+    position: absolute;
+    width: 450px;
+    margin-top: 250px;
+    margin-left: 850px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+.foater {
+    display: block;
+    width: 1300px;
+    height: 100px;
+    margin: auto auto;
+}
+.foater .Logo{
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.foater .Datos1{
+    display: block;
+    margin-left: 450px;
+    margin-top: -80px;
+}
+
+.foater .Datos2{
+    display: block;
+    margin-left: 680px;
+    margin-top: -45px;
+}
+
+.foater .Datos3{
+    display: block;
+    margin-left: 1050px;
+    margin-top: -65px;
+}
