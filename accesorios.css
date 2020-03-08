@@ -56,3 +56,48 @@ li .Buscar{
 .container .Ropa{
     margin-left: 0px;
 }
+
+/*Redimensión imágenes*/
+
+.container img{
+    height: 250px;
+    width: 250px;
+}
+
+.container a {
+    text-decoration: none;/*quita las lineas tipo link a las imágenes*/
+}
+
+.container .objeto1 {
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 100px ;
+}
+
+.container .objeto2 {
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+
+.container .objeto3 {
+    display: none;
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 500px;
+}
+
+.container .objeto4 {
+    display: none;
+    border :5px solid deeppink;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 500px;
+}
+
+.container.descripcion p{
+    
+}
