@@ -56,48 +56,57 @@ li .Buscar{
 .container .Ropa{
     margin-left: 0px;
 }
+/*---------------------------------------------------------*/
+.container{
+    position: relative;
+    top: 20px;
+    width: 50%;
+    height:auto;
+    background:none;
+    margin: auto;
+}
 
-/*Redimensión imágenes*/
+.container .list-image{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: center;
 
-.container img{
+}
+
+.container .list-image li{
+    margin-right: 20px;
+    margin-bottom:20px;
+    list-style: none;
+
+}
+
+.container .list-image li .container__image{
+    height: 300px;
+    width: 250px;
+    background:none;
+    border-radius: 3px;
+
+}
+
+
+
+.container .list-image li .container__image img{
+    position: relative;
     height: 250px;
     width: 250px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px ;
+
 }
 
-.container a {
-    text-decoration: none;/*quita las lineas tipo link a las imágenes*/
-}
-
-.container .objeto1 {
-    border :5px solid deeppink;
-    position: absolute;
-    margin-left: 300px;
-    margin-top: 100px ;
-}
-
-.container .objeto2 {
-    border :5px solid deeppink;
-    position: absolute;
-    margin-left: 650px;
-    margin-top: 100px;
-}
-
-.container .objeto3 {
-    display: none;
-    border :5px solid deeppink;
-    position: absolute;
-    margin-left: 300px;
-    margin-top: 500px;
-}
-
-.container .objeto4 {
-    display: none;
-    border :5px solid deeppink;
-    position: absolute;
-    margin-left: 650px;
-    margin-top: 500px;
-}
-
-.container.descripcion p{
+.container .list-image li .container__image .information__image {
+    
     
 }
+
+ 
+
+
+
+
+
