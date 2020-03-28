@@ -166,5 +166,37 @@
 			material:"algodon",
 			inventario:10
 			}
-		]
+			[
+		Vestidos:
+		{
+			referencia: 4758,
+			nombre: "Vestido blanco",
+			categoria: "vestido",
+			marca: "Guci",
+			material: "Poliéster",
+			precio: 168.000,
+			categoria: "Casual",
+			inventario: 5
+		}
+		{	
+			referencia: 8755,
+			nombre: "Reloj Panthere",
+			categoria: "vestidos",
+			marca: "Mauve",
+			material: "Algodón",
+			precio: 164.000,
+			categoria:"Elegante",
+			inventario: 4
+		}
+		{
+			referencia: 2536,
+			nombre: "Reloj Baignoire",
+			categoria: "vestidos",
+			marca: "Guci",
+			material: "Poliéster",
+			precio: 65.000,
+			categoria: "Vintage",
+			inventario: 8
+		}
+	]
 }
