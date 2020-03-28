@@ -71,6 +71,22 @@
 			categoria:"casual",
 			inventario: 10
 		}
+		
+		FALDAS:
+		{
+        	 nombre: "BLUSA LARGA CON FLORES"
+        	 marca:"GUESS",
+        	 categoria:"FALDAS DE TELA",
+        	 precio: 40000,
+        	 inventario:8
+        	 }
+        	 {
+        	 nombre: "BLUSA CORTA CON CORREA"
+        	 marca:"LIL",
+        	 categoria:"FALDA DE JEAN",
+       	 	 precio: 60000,
+       		 inventario:2
+         	}
 	
 		BLUSAS:
 		{
@@ -133,7 +149,7 @@
         	nombre:"BLUSA TRANSPARENTE",
         	marca:"MAUVE",
         	categoria:"Juvenil",
-        	precio:30000000,
+        	precio:30000,
         	inventario:10
 		}
 		JEANS:
@@ -166,7 +182,7 @@
 			material:"algodon",
 			inventario:10
 			}
-			[
+			
 		Vestidos:
 		{
 			referencia: 4758,
