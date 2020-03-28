@@ -74,14 +74,14 @@
 		
 		FALDAS:
 		{
-        	 nombre: "BLUSA LARGA CON FLORES"
+        	 nombre: "FALDA LARGA CON FLORES"
         	 marca:"GUESS",
         	 categoria:"FALDAS DE TELA",
         	 precio: 40000,
         	 inventario:8
         	 }
         	 {
-        	 nombre: "BLUSA CORTA CON CORREA"
+        	 nombre: "FALDA CORTA CON CORREA"
         	 marca:"LIL",
         	 categoria:"FALDA DE JEAN",
        	 	 precio: 60000,
