@@ -7,7 +7,7 @@
 			categoria: "reloj",
 			marca: "Apple",
 			material: "Titanio",
-			precio: 110.000,
+			precio: 110000,
 			categoria:"deportivo",
 			inventario: 7
 		}
@@ -17,7 +17,7 @@
 			categoria: "reloj",
 			marca: "Cartier",
 			material: "Titanio",
-			precio: 280.000,
+			precio: 280000,
 			categoria:"elegante",
 			inventario: 4
 		}
@@ -27,7 +27,7 @@
 			categoria: "reloj",
 			marca: "Skmei",
 			material: "Titanio",
-			precio: 120.000,
+			precio: 120000,
 			categoria:"casual",
 			inventario: 6
 		}
@@ -37,7 +37,7 @@
 			categoria: "reloj",
 			marca: "Cartier Care",
 			material: "Cuero",
-			precio: 140.000,
+			precio: 140000,
 			categoria:"casual",
 			inventario: 7
 		}
@@ -47,7 +47,7 @@
 			categoria: "reloj",
 			marca: "Huawei",
 			material: "Fibra de carbono",
-			precio: 300.000,
+			precio: 300000,
 			categoria:"deportivo",
 			inventario: 3
 		}
@@ -57,7 +57,7 @@
 			categoria: "Collar",
 			marca: "Chevignon",
 			material: "Cuero",
-			precio: 119.000,
+			precio: 119000,
 			categoria:"casual",
 			inventario: 4
 		}
@@ -67,7 +67,7 @@
 			categoria: "Gafas",
 			marca: "Chevignon",
 			material: "Carey",
-			precio: 259.900,
+			precio: 259900,
 			categoria:"casual",
 			inventario: 10
 		}
@@ -174,7 +174,7 @@
 			categoria: "vestido",
 			marca: "Guci",
 			material: "Poliéster",
-			precio: 168.000,
+			precio: 168000,
 			categoria: "Casual",
 			inventario: 5
 		}
@@ -184,7 +184,7 @@
 			categoria: "vestidos",
 			marca: "Mauve",
 			material: "Algodón",
-			precio: 164.000,
+			precio: 164000,
 			categoria:"Elegante",
 			inventario: 4
 		}
@@ -194,7 +194,7 @@
 			categoria: "vestidos",
 			marca: "Guci",
 			material: "Poliéster",
-			precio: 65.000,
+			precio: 65000,
 			categoria: "Vintage",
 			inventario: 8
 		}
