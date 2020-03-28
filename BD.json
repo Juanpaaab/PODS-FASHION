@@ -135,6 +135,36 @@
         	categoria:"Juvenil",
         	precio:30000000,
         	inventario:10
-		}	
+		}
+		JEANS:
+			{
+			referencia:1234,
+			nombre:"jean skinny", 
+		 	marca:"sybilla",
+		 	categoria:"boyfriend",
+		 	precio:90000, 
+		 	material:"algodon",
+		 	inventario:10
+		 	}
+
+			{
+			referencia:2234,
+			nombre:"jean mng",
+			marca:"mng",    
+			categoria:"verano",
+			precio:100000,
+			material:"algodon",
+			inventario:5
+			}
+
+			{
+			referencia:3234,
+			nombre:"jean push up",
+			marca:"mossimo",
+			categoria:"vaqueros",
+			precio:50000,
+			material:"algodon",
+			inventario:10
+			}
 		]
 }
