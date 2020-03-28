@@ -12,7 +12,7 @@
 			inventario: 7
 		}
 		{	
-			referencia: 7643,
+		       	referencia: 7643,
 			nombre: "Reloj Panthere",
 			categoria: "reloj",
 			marca: "Cartier",
@@ -71,5 +71,84 @@
 			categoria:"casual",
 			inventario: 10
 		}
+	
+		BLUSAS:
+	{
+         nombre: "BLUSA CON BOLEROS"
+         marca:"MAUVE",
+         categoria:"Señorial",
+         precio: 45000,
+         inventario:5
+         }
+
+         {
+         nombre: "BLUSA CON FLORES"
+         marca:"LOV",
+         categoria:"Señorial",
+         precio: 40000,
+         inventario:6
+         }         
+
+         {
+         nombre:"BLUSA MEDIA MANGA",
+         marca:"MAUVE",
+         categoria:"Fiesta",
+         precio:60000,
+         inventario:3
+         }
+
+         {
+         nombre:"BLUSA CORTA",
+         marca:"FREE",
+         categoria:"Deportiva",
+         precio:30000,
+         inventario:11
+         }
+
+         {
+         nombre:"BLUSA MANGA LARGA + NUDO",
+         marca:"MAUVE",
+         categoria:"Clasica",
+         precio:59000,
+         inventario:9
+         }
+
+         {
+         nombre:"BLUSA HOMBROS CAIDOS",
+         marca:"LOV",
+         categoria:"Clasica",
+         precio:35000,
+         inventario:7
+         }
+
+         {
+         nombre:"TOP CROP",
+         marca:"LOV",
+         categoria:"Juvenil",
+         precio:26000,
+         inventario:5
+         }
+
+         {
+         nombre:"TOP CROP TIRAS",
+         marca:"MAUVE",
+         categoria:"Juvenil",
+         precio:30000,
+         inventario:3
+         }
+
+         {
+         nombre:"BLUSA TRANSPARENTE",
+         marca:"MAUVE",
+         categoria:"Juvenil",
+         precio:30000000,
+         inventario:10
+	}	
+	
+	
 	]
+	
+	
+	
+	
 }
