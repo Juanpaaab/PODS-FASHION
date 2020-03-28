@@ -1,0 +1,75 @@
+{
+	Catalogo:[
+		Accesorios:
+		{
+			referencia: 6213,
+			nombre: "Reloj Fit",
+			categoria: "reloj",
+			marca: "Apple",
+			material: "Titanio",
+			precio: 110.000,
+			categoria:"deportivo",
+			inventario: 7
+		}
+		{	
+			referencia: 7643,
+			nombre: "Reloj Panthere",
+			categoria: "reloj",
+			marca: "Cartier",
+			material: "Titanio",
+			precio: 280.000,
+			categoria:"elegante",
+			inventario: 4
+		}
+		{
+			referencia: 2536,
+			nombre: "Reloj Baignoire",
+			categoria: "reloj",
+			marca: "Skmei",
+			material: "Titanio",
+			precio: 120.000,
+			categoria:"casual",
+			inventario: 6
+		}
+		{
+			referencia: 4758,
+			nombre: "Reloj Ballon Bleu",
+			categoria: "reloj",
+			marca: "Cartier Care",
+			material: "Cuero",
+			precio: 140.000,
+			categoria:"casual",
+			inventario: 7
+		}
+		{
+			referencia: 9854,
+			nombre: "Reloj cycling",
+			categoria: "reloj",
+			marca: "Huawei",
+			material: "Fibra de carbono",
+			precio: 300.000,
+			categoria:"deportivo",
+			inventario: 3
+		}
+		{
+			referencia: 6453,
+			nombre: "Girl Native",
+			categoria: "Collar",
+			marca: "Chevignon",
+			material: "Cuero",
+			precio: 119.000,
+			categoria:"casual",
+			inventario: 4
+		}
+		{
+			referencia: 7865,
+			nombre: "Gafas marrón",
+			categoria: "Gafas",
+			marca: "Chevignon",
+			material: "Carey",
+			precio: 259.900,
+			categoria:"casual",
+			inventario: 10
+		}
+	]
+}
