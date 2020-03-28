@@ -182,6 +182,37 @@
 			material:"algodon",
 			inventario:10
 			}
+		SHORTS:
+			{
+
+			referencia:8012,
+			nombre:"short deportivo",
+			marca:"most wanted",
+			categoria:"deportivos",
+			precio:45000,
+			material:"liocel",
+			inventario:15	
+			}
+
+			{
+			referencia:8013,
+			nombre:"short casual",
+			marca:"most wanted",
+			categoria:"casuales",
+			precio:50000,
+			material:"algodon",
+			inventario:20
+			}
+
+			{
+			referencia:8014,
+			nombre:"short ta",
+			marca:"most wanted",
+			categoria:"tiro alto",
+			precio:60000,
+			material:"liocel",
+			inventario:10
+			}
 			
 		Vestidos:
 		{
