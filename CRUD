@@ -1,0 +1,19 @@
+Operaciones de CRUD:
+Operaciones: Create, Update, Retrieve, Delete
+
+Create: 
+Crear una cuenta (nombres, apellidos, dirección del usuario, contraseña, ciudad de residencia del usuario, e-mail).
+Agregar producto (serial del producto, nombre del producto, imagen de producto, stock del  producto, precio del producto).
+
+
+Update:
+Actualizar datos (nombres, apellidos, dirección del usuario, contraseña, ciudad de residencia del usuario, e-mail, medio de pago, descuentos).
+Actualizar catalogo (serial del producto, nombre del producto, imagen de producto, stock del producto, precio del producto).
+
+Retrieve:
+		Consultar producto por categoría.
+		Consultar nivel de la cuenta.
+
+Delete:
+Eliminar cuenta (e-mail,contraseña).
+Eliminar producto (nombre del producto, serial del producto).
